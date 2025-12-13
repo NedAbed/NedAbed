@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Nedjm Eddine
+## Hi, I'm Nedjm Eddine Abed
 
 📱 **Mobile Developer & UX/UI Designer**
 
