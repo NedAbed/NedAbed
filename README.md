@@ -1,6 +1,6 @@
-## Hi, I'm Nedjm Eddine Abed
+## Nedjm Eddine Abed
 
-📱 **Mobile Developer & UX/UI Designer**
+📱 **`Mobile Developer & UX/UI Designer`**
 
 I’m an independent mobile developer and UX/UI designer focused on building clean, scalable mobile applications with **React Native**. I enjoy taking projects from idea and design to fully functional products, paying close attention to user experience, performance, and code quality.
 
