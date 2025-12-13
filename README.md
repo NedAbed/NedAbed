@@ -1,17 +1,16 @@
 ## Nedjm Eddine Abed
 
-📱 **`Mobile Developer & UX/UI Designer`**
+📱 **Mobile Developer & UX/UI Designer**
 
-I’m an independent mobile developer and UX/UI designer focused on building clean, scalable mobile applications with **React Native**. I enjoy taking projects from idea and design to fully functional products, paying close attention to user experience, performance, and code quality.
+Mobile developer and UX/UI designer specializing in **React Native**, passionate about building clean, scalable, and user-friendly mobile applications. I design, code, build, and publish fully functional apps, ensuring high-quality performance and seamless user experiences. I’m currently expanding my expertise into backend development with **Node.js, Express, and modern databases** to grow into a full-stack mobile developer.
 
-My projects are built from the ground up — starting with planning and UI/UX design, then implementing frontend logic, state management, and backend integration as I grow toward full-stack mobile development.
 
 ---
 
 ### 🌱 Currently Learning
 - Backend development with **Node.js & Express**
 - Databases: **MongoDB & SQLite**
-- Advanced state management for mobile apps
+- Advanced state management for mobile applications
 
 ### 📫 Contact
 - **Email:** abed.ned25@gmail.com
