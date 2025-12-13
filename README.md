@@ -1,6 +1,5 @@
-## Nedjm Eddine Abed
-
-📱 **Mobile Developer & UX/UI Designer**
+#  Nedjm Eddine Abed
+📱**Mobile Developer & UX/UI Designer | React Native Specialist**
 
 Mobile developer and UX/UI designer specializing in **React Native**, passionate about building clean, scalable, and user-friendly mobile applications. I design, code, build, and publish fully functional apps, ensuring high-quality performance and seamless user experiences. I’m currently expanding my expertise into backend development with **Node.js, Express, and modern databases** to grow into a full-stack mobile developer.
 
@@ -10,9 +9,6 @@ Mobile developer and UX/UI designer specializing in **React Native**, passionate
 - Backend development with **Node.js & Express**
 - Databases: **MongoDB & SQLite**
 - Advanced state management for mobile applications
-
-### 📫 Contact
-- **Email:** abed.ned25@gmail.com
 
 ---
 
@@ -31,3 +27,25 @@ Mobile developer and UX/UI designer specializing in **React Native**, passionate
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40"/></a>
 </p>
+
+---
+
+### 📂 Projects
+Here are some of the apps I’ve designed and developed:  
+
+1. **Project Name 1** – [Link to app/store/repo](#)  
+   Short description of what it does and tech used.  
+
+2. **Project Name 2** – [Link to app/store/repo](#)  
+   Short description of what it does and tech used.  
+
+3. **Project Name 3** – [Link to app/store/repo](#)  
+   Short description of what it does and tech used.  
+
+*You can add more projects as you complete them.*
+
+---
+
+### 📫 Contact
+- ✉️ **Email:** abed.ned25@gmail.com
+- 🔗 **Portfolio / Website:** [Add your link here](#)
