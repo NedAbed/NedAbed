@@ -38,13 +38,12 @@ Here are some of the apps I’ve designed and developed:
 
 
 2. **💰 TripCoin** – [GitHub Repository](https://github.com/NedAbed/TripcoinApp)  
-      Mobile app for managing trips and expenses, allowing users to track spending, categorize expenses, and view detailed trip summaries efficiently.
+   Mobile app for managing trips and expenses, allowing users to track spending, categorize expenses, and view detailed trip summaries efficiently.
 
-3. **Project Name 3** – [GitHub Repository](#)  
-   Short description of what it does and tech used.  
+3. **💳 TrueBalance** – [GitHub Repository](https://github.com/NedAbed/TrueBalanceApp)   
+   Mobile app for personal finance management, helping users track income, expenses, and overall balance efficiently with an intuitive interface.
 
 ---
 
 ### 📫 Contact
 - ✉️ **Email:** abed.ned25@gmail.com
-- 🔗 **Portfolio / Website:** [Add your link here](#)
