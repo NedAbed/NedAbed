@@ -37,7 +37,7 @@ Here are some of the apps I’ve designed and developed:
    Mobile app for exploring meals with React Native & Expo. Features browsing, meal details, cart management, and checkout functionality.
 
 
-2. **💰 TripCoin** – [GitHub Repository](https://github.com/NedAbed/TripcoinApp)  
+2. **✈️ TripCoin** – [GitHub Repository](https://github.com/NedAbed/TripcoinApp)  
    Mobile app for managing trips and expenses, allowing users to track spending, categorize expenses, and view detailed trip summaries efficiently.
 
 3. **💳 TrueBalance** – [GitHub Repository](https://github.com/NedAbed/TrueBalanceApp)   
