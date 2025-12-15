@@ -21,12 +21,17 @@ Mobile developer and UX/UI designer specializing in **React Native**, passionate
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" width="40" height="40"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40"/></a>
 </p>
+
+
 
 ---
 
