@@ -33,16 +33,15 @@ Mobile developer and UX/UI designer specializing in **React Native**, passionate
 ### 📂 Projects
 Here are some of the apps I’ve designed and developed:  
 
-1. **Project Name 1** – [[Click here](https://github.com/NedAbed/TasteitApp)]  
+1. **🍔 Tasteit** – [GitHub Repository](https://github.com/NedAbed/TasteitApp)  
+   Mobile app for exploring meals with React Native & Expo. Features browsing, meal details, cart management, and checkout functionality.
+
+
+2. **Project Name 2** – [GitHub Repository](#)  
    Short description of what it does and tech used.  
 
-2. **Project Name 2** – [Link to app/store/repo](#)  
+3. **Project Name 3** – [GitHub Repository](#)  
    Short description of what it does and tech used.  
-
-3. **Project Name 3** – [Link to app/store/repo](#)  
-   Short description of what it does and tech used.  
-
-*You can add more projects as you complete them.*
 
 ---
 
