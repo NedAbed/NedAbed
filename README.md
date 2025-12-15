@@ -33,7 +33,7 @@ Mobile developer and UX/UI designer specializing in **React Native**, passionate
 ### 📂 Projects
 Here are some of the apps I’ve designed and developed:  
 
-1. **Project Name 1** – [Link to app/store/repo](#)  
+1. **Project Name 1** – [[Click here](https://github.com/NedAbed/TasteitApp)]  
    Short description of what it does and tech used.  
 
 2. **Project Name 2** – [Link to app/store/repo](#)  
